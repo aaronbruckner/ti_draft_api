@@ -1,3 +1,3 @@
 #!/bin/bash
 # . activate.sh
-. venv/bin/activate
+. .venv/bin/activate
