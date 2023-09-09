@@ -1,3 +1,3 @@
 .PHONY: dev
 dev:
-	flask --app src/app run
+	flask --app ti_draft_api/app run
